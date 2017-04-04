@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491137706 source:f:\datastruct\chapter03\queueopsdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489803161 source:f:\datastruct\hashlearn\main.c
+	<stdio.h>
+	<stdlib.h>
+

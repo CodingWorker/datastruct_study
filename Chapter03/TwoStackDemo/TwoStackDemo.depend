@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491183691 source:f:\datastruct\chapter03\twostackdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+

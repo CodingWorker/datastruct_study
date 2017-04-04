@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491218507 source:f:\datastruct\chapter04\reverselistnodedemo\main.c
+	<stdio.h>
+	<stdlib.h>
+
