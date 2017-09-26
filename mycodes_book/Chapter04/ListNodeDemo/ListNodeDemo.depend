@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491202266 source:f:\datastruct\chapter04\ listnodedemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+

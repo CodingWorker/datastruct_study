@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489819361 source:f:\datastruct\chapter01\baselearn\main.c
+	<stdio.h>
+	<stdlib.h>
+

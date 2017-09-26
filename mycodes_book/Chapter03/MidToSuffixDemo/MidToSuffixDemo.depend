@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491152528 source:f:\datastruct\chapter03\midtosuffixdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+

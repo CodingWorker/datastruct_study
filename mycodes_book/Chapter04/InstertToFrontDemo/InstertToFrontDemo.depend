@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491233999 source:f:\datastruct\chapter04\insterttofrontdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+

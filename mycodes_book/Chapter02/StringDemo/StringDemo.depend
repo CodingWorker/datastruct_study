@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491121841 source:f:\datastruct\chapter02\stringdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+

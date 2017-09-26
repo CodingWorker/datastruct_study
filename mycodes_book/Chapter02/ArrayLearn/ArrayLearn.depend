@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489840386 source:f:\datastruct\chapter02\arraylearn\main.c
+	<stdio.h>
+	<stdlib.h>
+

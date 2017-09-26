@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491105525 source:f:\datastruct\chapter02\structmemarydemo\main.c
+	<stdio.h>
+	<stdlib.h>
+

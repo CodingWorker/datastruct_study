@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491228539 source:f:\datastruct\chapter04\concatlistnodedemo\main.c
+	<stdio.h>
+	<stdlib.h>
+
